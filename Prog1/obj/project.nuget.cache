@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7rMiUL7BLn7e3nwMy5+DXb+FyGt8yNpjA6dEZP+ZaQPlMnyE4Pu+Ny2DpyOhu8CVexbjZsTL5uymV1OR8MV/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frisell.emelina\\prog1completering\\Prog1\\Prog1\\Prog1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frisell.emelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

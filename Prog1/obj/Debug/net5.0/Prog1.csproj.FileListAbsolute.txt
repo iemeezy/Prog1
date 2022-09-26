@@ -1,0 +1,16 @@
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.csproj.AssemblyReference.cache
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.AssemblyInfoInputs.cache
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.AssemblyInfo.cs
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.exe
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.deps.json
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.runtimeconfig.json
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.runtimeconfig.dev.json
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.dll
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\bin\Debug\net5.0\Prog1.pdb
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.dll
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\refint\Prog1.dll
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.pdb
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\Prog1.genruntimeconfig.cache
+C:\Users\frisell.emelina\prog1completering\Prog1\Prog1\obj\Debug\net5.0\ref\Prog1.dll
