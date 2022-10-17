@@ -2,28 +2,56 @@
 
 int playerMoney = 100;
 int playersamla = 0;
+int samlacounter = 0;
 while (playerMoney > 0)
 {
-    Console.WriteLine("Vill du samla eller köpa?");
+    Console.WriteLine("Vill du samla, köpa eller sälja?");
     Console.WriteLine($"Du har {playersamla} items");
     Console.WriteLine($"Du har {playerMoney} kronor");
 
     string val = "";
-    while (val != "samla" && val != "köpa" && val != "ja" && val != "nej")
+    while (val != "samla" && val != "köpa")
     {
         val = Console.ReadLine();
     }
 
 
-    if (val == "samla")
+    while (val == "samla" && samlacounter < 10)
     {
         Console.WriteLine($"Du har {playersamla} items ");
         Console.WriteLine("Vill du leta efter items?");
 
-        val = Console.ReadLine();
+        val = ""; 
+        while (val != "ja" && val != "nej")
+        {
+            val = Console.ReadLine();
+        }
+
+        if (val == "ja" && samlacounter == 9)
+        {
+         
+         Console.WriteLine("du är för trött för att samla");
+        }
         
+        else if(val == "ja")
+        {
+         Random generator = new Random();
+         int r = generator.Next(10);
+
+          playersamla += r;
+          val = "samla";
+          samlacounter++;
+        }
+       
+
+
+
+
     }
-    else if (val == "köpa")
+    
+    
+
+    if (val == "köpa")
     {
 
 
